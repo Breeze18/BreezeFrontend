@@ -1,2 +1,0 @@
-# BreezeFrontend
-Frontend
